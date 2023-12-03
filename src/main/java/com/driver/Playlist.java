@@ -10,6 +10,7 @@ public class Playlist {
     }
 
     public Playlist(String title){
+
         this.title = title;
     }
 
